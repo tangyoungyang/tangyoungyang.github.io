@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,Q as o}from"./chunks/framework.48c8082a.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"centos8network.md","filePath":"centos8network.md"}'),l={name:"centos8network.md"},p=o("",5),e=[p];function t(c,r,i,y,E,h){return n(),a("div",null,e)}const u=s(l,[["render",t]]);export{F as __pageData,u as default};
